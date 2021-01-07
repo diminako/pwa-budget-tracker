@@ -13,7 +13,7 @@ database has already been completed or not and position them in their corespondi
 ## Link to the Web App  
 [PWA Budget Tracker!](https://polar-refuge-91227.herokuapp.com/)  
 ## Screenshot  
-![Image of the webpage](https://raw.githubusercontent.com/diminako/pwa-budget-tracker/screenshot.png)  
+![Image of the webpage](https://github.com/diminako/pwa-budget-tracker/blob/main/screenshot.png)  
 ## Table of Contents  
 * [Installation](#installation)  
 * [Usage](#usage)  
